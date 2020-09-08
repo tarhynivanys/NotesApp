@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ECBE32</item>
+        <item name="colorPrimaryDark">#FFC105</item>
+        <item name="colorAccent">#DBA500</item>
+    </style>
+
+    <style name="counterStyle" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">#F7E5B1</item>
+    </style>
+
+    <style name="counterOverride" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@android:color/holo_red_dark</item>
+    </style>
+
+</resources>
