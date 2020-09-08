@@ -19,8 +19,11 @@ You can delete every single note by pressing at the bin in the top right corner/
 ### Prerequisites
 
 Android Studio
+
 Android SDK
+
 AVD Manager
+
 JDK
 
 ## Built With
